@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
