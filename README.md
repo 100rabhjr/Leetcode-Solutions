@@ -67,14 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -83,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
