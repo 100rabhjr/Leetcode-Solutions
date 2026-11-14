@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0905-sort-array-by-parity](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0504-base-7) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
