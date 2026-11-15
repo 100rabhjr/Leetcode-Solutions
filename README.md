@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0739-daily-temperatures](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
