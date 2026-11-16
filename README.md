@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0622-design-circular-queue](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 ## String
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
