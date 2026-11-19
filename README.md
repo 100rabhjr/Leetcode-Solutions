@@ -130,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3174-clear-digits) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
