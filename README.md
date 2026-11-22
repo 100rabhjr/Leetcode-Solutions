@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3174-clear-digits](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
