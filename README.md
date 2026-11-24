@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
