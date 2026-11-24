@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0504-base-7) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
