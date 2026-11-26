@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/0504-base-7) |
+| [3360-stone-removal-game](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/100rabhjr/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
